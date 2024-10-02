@@ -12,8 +12,9 @@ Welcome to my GitHub profile! I'm a 400-level Urban and Regional Planning studen
 ## 🛠️ Skills & Tools
 
 - **Programming Languages**: 
-  - Python (Backend Development)
+  - Python (Backend Development, with MySQL & NoSQL databases)
   - Dart (Flutter Development)
+  
 - **Frameworks & Libraries**: 
   - Flutter (Mobile App Development)
 - **Tools**:
