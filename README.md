@@ -1,6 +1,6 @@
 # Hi there, I'm Muhammed Abdulquddus! 👋
 
-Welcome to my GitHub profile! I'm a 400-level Urban and Regional Planning student at the Federal University of Technology, Minna, in Nigeria. I'm passionate about technology and love exploring the intersection between urban planning and software development.
+Welcome to my GitHub profile! I'm a final year Urban and Regional Planning student at the Federal University of Technology, Minna, in Nigeria. I'm passionate about technology and love exploring the intersection between urban planning and software development.
 
 ## 🚀 About Me
 
