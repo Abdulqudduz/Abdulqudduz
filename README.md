@@ -1,54 +1,54 @@
 # Hi there, I'm Muhammed Abdulquddus! 👋
 
-Welcome to my GitHub profile! I'm a final year Urban and Regional Planning student at the Federal University of Technology, Minna, in Nigeria. I'm passionate about technology and love exploring the intersection between urban planning and software development.
+Welcome to my GitHub profile! I'm a passionate software developer based in Abuja, Nigeria, with a strong interest in mobile and backend development.
 
 ## 🚀 About Me
 
-- 🎓 **Student**: Currently pursuing a degree in Urban and Regional Planning.
+- 💻 **Developer**: Focused on building mobile apps with Flutter and backend solutions with Python.
 - 🌍 **Location**: Abuja, Nigeria.
-- 💻 **Learning**: Actively learning Flutter for mobile app development and Python for backend development.
-- 🎯 **Goals**: I aim to leverage technology to create innovative solutions that address urban challenges and improve city living.
+- 📚 **Learning**: Constantly improving my skills in Flutter and Python, and exploring database technologies like MySQL and MongoDB.
+- 🎯 **Goals**: To build innovative, efficient, and user-friendly applications that solve real-world problems through technology.
 
 ## 🛠️ Skills & Tools
 
-- **Programming Languages**: 
-  - Python (Backend Development, with MySQL & NoSQL databases)
-  - Dart (Flutter Development)
+- **Programming Languages**:  
+  - Python (Backend Development, with MySQL & NoSQL databases)  
+  - Dart (Flutter Development)  
   
-- **Frameworks & Libraries**: 
-  - Flutter (Mobile App Development)
-- **Tools**:
-  - VS Code
-  - Android Studio
-  - Git & GitHub
-  - Termux
+- **Frameworks & Libraries**:  
+  - Flutter (Mobile App Development)  
+
+- **Tools**:  
+  - VS Code  
+  - Android Studio  
+  - Git & GitHub  
+  - Termux  
 
 ## 📚 Current Projects
 
-- **Learning Flutter**: I'm working on mastering Flutter to build cross-platform mobile applications.
-- **Exploring Backend Development**: Diving deep into Python for backend development, aiming to build robust and scalable web applications.
+- **Building with Flutter**: Developing cross-platform mobile applications.  
+- **Backend Development**: Creating scalable and secure backend systems using Python.  
 
-## 🌱 I’m currently learning
+## 🌱 I’m Currently Learning
 
-- **Advanced Flutter techniques**
-- **Backend development with Python**
+- Advanced Flutter techniques  
+- Python backend frameworks and database integration  
 
 ## 🎯 Hobbies
 
-- Reading tech blogs and books
-- Solving puzzles
-- Learning and creating new things
+- Reading tech blogs and books  
+- Solving puzzles  
+- Learning and building new things  
 
-## 📫 How to reach me
+## 📫 How to Reach Me
 
-- **Email**: [quddumuhammed.a@gmail.com](mailto:quddumuhammed.a@gmail.com)
-- **LinkedIn**: [Check out Abdulquddus Muhammed’s profile on LinkedIn](https://ng.linkedin.com/in/abdulquddus-muhammed-422850324)
+- **Email**: [quddumuhammed.a@gmail.com](mailto:quddumuhammed.a@gmail.com)  
+- **LinkedIn**: [Abdulquddus Muhammed on LinkedIn](https://ng.linkedin.com/in/abdulquddus-muhammed-422850324)  
 
 ## 🧠 Fun Fact
 
-I love exploring how urban planning concepts can be integrated with modern technology to create smart cities.
+I enjoy breaking down complex problems and turning them into elegant code solutions.
 
 ---
 
-Feel free to explore my repositories and reach out if you'd like to collaborate on projects or discuss new ideas!
-
+Feel free to explore my repositories and reach out if you'd like to collaborate on projects or share ideas!
