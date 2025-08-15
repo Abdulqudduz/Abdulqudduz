@@ -36,6 +36,8 @@ Welcome to my GitHub profile! I'm a passionate software developer based in Abuja
 
 ## 🎯 Hobbies
 
+- Running
+- Playing football games
 - Reading tech blogs and books  
 - Solving puzzles  
 - Learning and building new things  
